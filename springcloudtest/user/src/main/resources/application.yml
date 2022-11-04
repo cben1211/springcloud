@@ -1,0 +1,6 @@
+server:
+  port: 8030
+  spring:
+  servlet:
+    application:
+        name: user-test
